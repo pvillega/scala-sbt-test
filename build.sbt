@@ -26,3 +26,5 @@ site.includeScaladoc()
 ghpages.settings
 
 git.remoteRepo := "git@github.com:pvillega/scala-sbt-test.git"
+
+instrumentSettings
