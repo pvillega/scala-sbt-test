@@ -12,3 +12,5 @@ Uses:
 * http://www.scalactic.org/ (for handy additional methods)
 * https://github.com/sbt/sbt-unidoc (to generate scala docs across projects)
 * https://github.com/rtimush/sbt-updates (to check for new versions of libraries)
+* https://github.com/sbt/sbt-site (to generate static site for the app)
+* https://github.com/sbt/sbt-ghpages (to push static site to github pages)

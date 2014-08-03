@@ -19,4 +19,10 @@ org.scalastyle.sbt.ScalastylePlugin.Settings
 
 unidocSettings
 
+site.settings
 
+site.includeScaladoc()
+
+ghpages.settings
+
+git.remoteRepo := "git@github.com:pvillega/scala-sbt-test.git"
